@@ -20,7 +20,8 @@ params.Lc3 = [];
 
 % End Effector / Payload (Mass)
 params.mEE = [];
-params.payload = [];
+params.payload = 0.5;
+params.payloadSweep = [];
 
 % Joint Limits (Angular range of each joint)
 params.q1_min = [];
