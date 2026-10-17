@@ -41,11 +41,11 @@ params.requiredReach = [];
 params.requiredHeight = [];
 params.moveTime = [];
 
-% Motors, (WIP)
+% Motors, (Work In Progress)
 params.motor1TorqueMax = [];
 params.motor2TorqueMax = [];
 params.motor3TorqueMax = [];
 params.motor4TorqueMax = [];
 
-% Design, (WIP)
+% Design, (Work In Progress)
 params.torqueSafetyFactor = [];
