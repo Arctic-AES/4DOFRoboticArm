@@ -1,8 +1,8 @@
 function tauPayload = staticPayloadTorque(q, params)
 
-q2 = q(2);
-q3 = q(3);
-q4 = q(4);
+q2 = q(2); % Shoulder Pitch
+q3 = q(3); % Elbow Pitch
+q4 = q(4); % Wrist Pitch
 
 Fpayload = params.payload * params.g;
 
